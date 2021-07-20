@@ -8,10 +8,9 @@ Jupyter notebook dosyası olarak geliştirilmiş olan bu çalışmanın bir uçt
 
  [Ybs Ansiklopedi](http://ybsansiklopedi.com/wp-content/uploads/2021/05/Berkay_AKAR-3.pdf)
 
+ 
 
-Knime için :
 
+[Knime](https://pbs.twimg.com/profile_images/940902877270290432/3_92FwKS_400x400.jpg)
 
-[Knime](https://www.google.com/search?q=knime&sxsrf=ALeKk00TJ8-8Q3T9OSxkjqGmsBkKMAycNw:1626820391114&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjz5pmc2vLxAhUFLewKHeZbCGMQ_AUoAXoECAEQAw&biw=1366&bih=617#imgrc=yAjGHBo-51XyfM)
-
-[Sklearn](https://www.google.com/search?q=sklearn&sxsrf=ALeKk034q3iXeqY0L19LS3jQU076Caa0Dw:1626820463927&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj39_W-2vLxAhUSGewKHfmcBlgQ_AUoAXoECAEQAw&biw=1366&bih=617#imgrc=8cij3GdoNwkDdM)
+[Sklearn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
