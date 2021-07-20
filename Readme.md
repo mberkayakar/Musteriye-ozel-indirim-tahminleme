@@ -11,6 +11,6 @@ Jupyter notebook dosyası olarak geliştirilmiş olan bu çalışmanın bir uçt
  
 
 
-[Knime](https://pbs.twimg.com/profile_images/940902877270290432/3_92FwKS_400x400.jpg)
+![Knime](https://pbs.twimg.com/profile_images/940902877270290432/3_92FwKS_400x400.jpg)
 
-[Sklearn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
+![Sklearn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
