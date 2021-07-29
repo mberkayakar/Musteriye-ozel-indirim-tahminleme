@@ -16,10 +16,14 @@ Jupyter notebook dosyası olarak geliştirilmiş olan bu çalışmanın bir uçt
 
 <br>
 <br>
-<br>
-<br>
+
+ <div align="center">
+<img src="https://pbs.twimg.com/profile_images/940902877270290432/3_92FwKS_400x400.jpg"><br> 
+</div>
+
+
 <div aling="center">
-!<img src="https://pbs.twimg.com/profile_images/940902877270290432/3_92FwKS_400x400.jpg">
+
 </div>
 <br>
 
