@@ -18,13 +18,9 @@ Jupyter notebook dosyası olarak geliştirilmiş olan bu çalışmanın bir uçt
 <br>
 
  <div align="center">
-<img src="https://forum-cdn.knime.com/uploads/default/original/1X/ab3ccf34482a0329361734a18199390177204f15.png" style="width : 400px ; height : 400px"><br> 
+<img src="https://forum-cdn.knime.com/uploads/default/original/1X/ab3ccf34482a0329361734a18199390177204f15.png" style="width : 200px ; height : 30px"><br> 
 </div>
 
 
-<div aling="center">
-
-</div>
-<br>
-
-![Sklearn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
+ 
+ 
