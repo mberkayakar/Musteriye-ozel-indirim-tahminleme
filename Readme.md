@@ -14,7 +14,7 @@ Jupyter notebook dosyası olarak geliştirilmiş olan bu çalışmanın bir uçt
 <br>
 
  <div align="center">
--📧 <a href="m.berkay.akar@gmail.com" aling="center">m.berkay.akar@gmail.com</a><br> 
+<a href="m.berkay.akar@gmail.com" aling="center">m.berkay.akar@gmail.com</a><br> 
 </div>
 
 <div aling="center">
