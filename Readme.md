@@ -7,7 +7,7 @@ Jupyter notebook dosyası olarak geliştirilmiş olan bu çalışmanın bir uçt
 Çalışma süreci tutorial formatında içerisinde Word belgesi olan dosya halinde verilmiş olup makalenin karşılaştırmaları ve Optsicorer sonuçları için aşağıdaki ilk üzerinden takip edebilirsiniz. 
 
 <div aling="center">
- <a href"http://ybsansiklopedi.com/wp-content/uploads/2021/05/Berkay_AKAR-3.pdf">YBS ANSİKLOPEDİ CILT 9, SAYI 1 , 2021</a>
+ <a href="http://ybsansiklopedi.com/wp-content/uploads/2021/05/Berkay_AKAR-3.pdf">YBS ANSİKLOPEDİ CILT 9, SAYI 1 , 2021</a>
 </div>
  
 
