@@ -18,7 +18,7 @@ Jupyter notebook dosyası olarak geliştirilmiş olan bu çalışmanın bir uçt
 <br>
 
  <div align="center">
-<img src="https://pbs.twimg.com/profile_images/940902877270290432/3_92FwKS_400x400.jpg"><br> 
+<img src="https://forum-cdn.knime.com/uploads/default/original/1X/ab3ccf34482a0329361734a18199390177204f15.png"><br> 
 </div>
 
 
