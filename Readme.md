@@ -8,7 +8,7 @@ Jupyter notebook dosyası olarak geliştirilmiş olan bu çalışmanın bir uçt
 <br>
 
 <div aling="center">
- <a aling="center" href="http://ybsansiklopedi.com/wp-content/uploads/2021/05/Berkay_AKAR-3.pdf">YBS ANSİKLOPEDİ CILT 9, SAYI 1 , 2021</a>
+ <a  href="http://ybsansiklopedi.com/wp-content/uploads/2021/05/Berkay_AKAR-3.pdf" aling="center" >YBS ANSİKLOPEDİ CILT 9, SAYI 1 , 2021</a>
 </div>
 
 <br>
