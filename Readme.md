@@ -22,6 +22,10 @@ Jupyter notebook dosyası olarak geliştirilmiş olan bu çalışmanın bir uçt
 </div>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
  
   <div align="center">
